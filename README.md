@@ -34,6 +34,8 @@ I help clients solve high-stakes problems by delivering **fault-tolerant, produc
 ### Leadership:
 * **Cloud Leadership**: Training **100+ students** as a Workshop Instructor for Alibaba Cloud.
 
+### About Me:
+* Outside of tech I like to swim professionally, play chess, solve rubiks cube & research about physics and economics.
 ---
 
 ### Let's Build Your Dream Together 
