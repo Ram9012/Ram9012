@@ -1,9 +1,7 @@
-# 👋 I'm <a href="https://linkedin.com/in/ramansh-tomar">Ramansh Tomar</a> 
-## I am a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&width=435&lines=AI+ML+Systems+Developer;Ready-to-Use+Pipeline+Specialist;Problem+Solver+for+Global+Clients;Workshop+Instructor" alt="Typing SVG" />
-# Hi, I'm Ramansh Tomar | AI/ML Systems Developer
 ![Accuracy](https://img.shields.io/badge/OCR_Accuracy-98%25-green?style=for-the-badge&logo=google-lens)
 ![Efficiency](https://img.shields.io/badge/Manual_Verification_Cut-85%25-blue?style=for-the-badge&logo=automation)
-![Performance](https://img.shields.io/badge/Query_Speed_Boost-40%25-orange?style=for-the-badge&logo=postgresql)
+# Hi, I'm <a href="https://linkedin.com/in/ramansh-tomar">Ramansh Tomar</a> 
+## I am a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D2FF&width=435&lines=AI+ML+Systems+Developer;Problem+Solver;Workshop+Instructor" alt="Typing SVG" />
 ### I Deliver Ready-to-Use Solutions
 I help clients solve high-stakes problems by delivering **fault-tolerant, production-ready AI pipelines**. Whether it's automating KYC or real-time industrial fault detection, I focus on measurable ROI and seamless integration. 
 ---
