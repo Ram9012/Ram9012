@@ -1,5 +1,7 @@
 
 # Hi, I'm <a href="https://linkedin.com/in/ramansh-tomar">Ramansh Tomar</a> 
+**LinkedIn**: [linkedin.com/in/ramansh-tomar](https://linkedin.com/in/ramansh-tomar) 
+**Email**: [ramansh964gmail.com](mailto:ramansh964@gmail.com) 
 # Delivering Ready-to-Use Solutions
 I help clients solve high-stakes problems by delivering **fault-tolerant, production-ready AI pipelines**. Whether it's automating KYC or real-time industrial fault detection, I focus on measurable ROI and seamless integration. 
 ---
