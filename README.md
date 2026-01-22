@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-# Delivering Ready-to-Use Solutions
 I help clients solve high-stakes problems by delivering **fault-tolerant, production-ready AI pipelines**. Whether it's automating KYC or real-time industrial fault detection, I focus on measurable ROI and seamless integration. 
 ---
 
