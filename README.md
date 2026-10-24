@@ -38,17 +38,8 @@ I help clients solve high-stakes problems by delivering fault-tolerant, producti
 
 ---
 
-### Leadership:
-* **Cloud Leadership**: Training **100+ students** as a Workshop Instructor for Alibaba Cloud.
-
-### About Me:
-* Outside of tech I like to swim professionally, play chess, solve rubiks cube & research about physics and economics.
----
-
 ### Let's Build Your Dream Together 
 #### I’d love to learn more about your ideas and explore how we can collaborate to bring them to life 😊
 * **LinkedIn**: [linkedin.com/in/ramansh-tomar](https://linkedin.com/in/ramansh-tomar) 
 * **Email**: [ramansh964gmail.com](mailto:ramansh964@gmail.com) 
-* **Location**: Tamil Nadu, India
-
 ---
