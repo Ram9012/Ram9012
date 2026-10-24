@@ -12,8 +12,6 @@
 I help clients solve high-stakes problems by delivering fault-tolerant, production-ready AI pipelines. Whether it's automating KYC or real-time industrial fault detection, I focus on measurable ROI and seamless integration. 
 
 ### Impact Highlights 
-![Accuracy](https://img.shields.io/badge/OCR_Accuracy-98%25-green?style=for-the-badge&logo=google-lens)
-![Efficiency](https://img.shields.io/badge/Manual_Verification_Cut-85%25-blue?style=for-the-badge&logo=automation)
 * **KYC Automation**: Built a fault-tolerant OCR pipeline , measured by **98% extraction accuracy**, which achieved an **85% reduction in manual verification overhead**.
 * **Data Visualization**: Engineered AI features for instant charting , measured by manual processing benchmarks, which achieved an **80% reduction in charting time**.
 * **Industrial Safety**: Developed an AI-based acoustic wave system , measured by defect detection rates, which achieved **90%+ accuracy** and a **70% cut in manual inspection time**.
